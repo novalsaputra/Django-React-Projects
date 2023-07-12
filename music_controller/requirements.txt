@@ -1,0 +1,8 @@
+pip3 install django djangorestframework
+
+npm i webpack webpack-cli
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react
+npm i react react-dom
+npm install -f @material-ui/core
+npm install @babel/plugin-proposal-class-properties
+npm install react-router-dom
